@@ -5,9 +5,15 @@
 
 使用方法
 <br>
+安装
+<br>
 ```npm i hanzi-convert```
 <br>
-```HanziConvert = require('./hanzi-convert/index')```
+引入
+<br>
+```HanziConvert = require('hanzi-convert')```
+<br>
+使用
 <br>
 ```let data = HanziConvert.convert(word, true)```
 <br>
