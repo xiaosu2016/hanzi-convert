@@ -1,6 +1,6 @@
 {
   "name": "hanzi-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplified Traditional 简体转繁体",
   "main": "index.js",
   "scripts": {
