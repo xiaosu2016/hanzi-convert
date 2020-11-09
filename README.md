@@ -8,13 +8,12 @@
 <br>
 ```HanziConvert = require('./hanzi-convert/index')```
 <br>
-  /*
    * 执行文字转换
    * @function convert
    * @param {String} str 需要转换的字符串
    * @param {Boolean} isSc2tc 是否是简体转繁体
    * @return String 转换后的字符串
-   */
+
 <br>
 ```let data = HanziConvert.convert(word, true)```
 
