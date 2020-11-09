@@ -1,0 +1,25 @@
+{
+  "name": "hanzi-convert",
+  "version": "1.0.0",
+  "description": "Simplified Traditional 简体转繁体",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaosu2016/hanzi-convert.git"
+  },
+  "keywords": [
+    "繁体",
+    "Simplified",
+    "Traditional",
+    "简体转繁体"
+  ],
+  "author": "xiaosu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaosu2016/hanzi-convert/issues"
+  },
+  "homepage": "https://github.com/xiaosu2016/hanzi-convert#readme"
+}
