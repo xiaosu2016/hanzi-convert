@@ -4,9 +4,11 @@
 </p>
 
 使用方法
+<br>
 ```npm i hanzi-convert```
 <br>
 ```HanziConvert = require('./hanzi-convert/index')```
+<br>
 ```let data = HanziConvert.convert(word, true)```
 <br>
    * 执行文字转换
