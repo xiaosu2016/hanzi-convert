@@ -4,10 +4,10 @@
 </p>
 
 使用方法
-```npm i hanzi-convert
- HanziConvert = require('./hanzi-convert/index')```
+```npm i hanzi-convert```
+```HanziConvert = require('./hanzi-convert/index')```
 
-  /**
+  /*
    * 执行文字转换
    * @function convert
    * @param {String} str 需要转换的字符串
