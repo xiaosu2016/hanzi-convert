@@ -7,6 +7,7 @@
 ```npm i hanzi-convert```
 <br>
 ```HanziConvert = require('./hanzi-convert/index')```
+```let data = HanziConvert.convert(word, true)```
 <br>
    * 执行文字转换
    * @function convert
@@ -15,6 +16,5 @@
    * @return String 转换后的字符串
 
 <br>
-```let data = HanziConvert.convert(word, true)```
 
 
